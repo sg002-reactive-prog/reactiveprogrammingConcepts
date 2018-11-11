@@ -7,6 +7,8 @@ import java.util.stream.IntStream;
 
 /**
  * An example in java 9
+ * Publisher --publishes first 100 fibonacci numbers
+ * Subscriber -- subscribes to the feed and gets the first 50 and then cancels the subscription
  */
 public class PublisherSubscriberExample {
 
