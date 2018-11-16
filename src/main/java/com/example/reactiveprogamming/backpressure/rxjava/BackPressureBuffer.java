@@ -1,4 +1,4 @@
-package com.example.reactiveprogamming.backpressure;
+package com.example.reactiveprogamming.backpressure.rxjava;
 
 import io.reactivex.BackpressureStrategy;
 import io.reactivex.Flowable;

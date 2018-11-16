@@ -1,4 +1,4 @@
-package com.example.reactiveprogamming;
+package com.example.reactiveprogamming.rxjava;
 
 import java.util.concurrent.TimeUnit;
 
